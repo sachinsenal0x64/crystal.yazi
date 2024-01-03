@@ -25,16 +25,9 @@ border_symbol = "│"
 border_style  = { fg = "#7f849c" }
 
 # Highlighting
-syntect_theme = "~/.config/bat/themes/Catppuccin-mocha.tmTheme"
+syntect_theme = "~/.config/yazi/Catppuccin-mocha.tmTheme"
 
 # : }}}
-
-# Preview Position
-
-folder_offset  = [ 2, 0, 2, 0 ]
-preview_offset = [ 4, 4, 4, 4 ]
-
-
 
 # : Status {{{
 

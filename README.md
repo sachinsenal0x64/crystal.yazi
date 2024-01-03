@@ -1,2 +1,2 @@
-# rose-theme
-Rose theme for yazi
+# Crystal-theme
+Crystal theme for yazi

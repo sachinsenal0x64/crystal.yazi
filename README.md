@@ -1,9 +1,9 @@
-# Crystal theme
+# 🦄 Crystal theme
 
 [Crystal](https://github.com/sachinsenal0x64/crystal-theme) theme for [Yazi](https://github.com/sxyazi/yazi).
 
 
-# 🦄 Install
+# 🔮 Install
 
 ```sh
 git clone https://github.com/sachinsenal0x64/crystal-theme

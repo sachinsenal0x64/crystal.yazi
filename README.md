@@ -8,9 +8,9 @@
 
 # 🦄 Install
 
-``sh
+```sh
 git clone https://github.com/sachinsenal0x64/crystal-theme
 mkdir ~/.config/yazi
 cd crystal-theme
 mv theme.toml ~/.config/yazi/
-``
+```

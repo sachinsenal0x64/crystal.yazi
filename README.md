@@ -7,7 +7,7 @@
 # 🔮 Install
 
 ```sh
-git clone https://github.com/sachinsenal0x64/crysta
+git clone https://github.com/sachinsenal0x64/crystal
 mkdir ~/.config/yazi
 cd crystal
 mv theme.toml ~/.config/yazi/
